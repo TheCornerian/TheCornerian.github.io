@@ -14,32 +14,34 @@ When mine read engineer, I'm embarrassed to say I was confused. I had no idea wh
 we all do pursuing the profession, and I believed my proclivity to math and science would actualize an admission to medical school. There were only a couple issues, at first, that stood in my way.
 Tomo and germophobia. The sight of gore could immediately invoke sweating, anxiety, and fear. And I could barely stand around anyone that was sick. You might expect that to be a definitive deal breaker for medical school, but
 my applications never got that far. In the meantime I was volunteering for a Alzheimer's disease research lab where my fears became living nightmares, and my personal circle of hell.
-I should have questioned more then, why I decided to show up <ev> there <ev/> everyday, and not anywhere else. I had a job to pay my bills through undergrad, and I gave up hours to be in the lab instead. So why did I do it?
+I should have questioned more then, why I decided to show up <ev>there<ev/> everyday, and not anywhere else. I had a job to pay my bills through undergrad, and I gave up hours to be in the lab instead. So why did I do it?
 
 The science of course!
 
 I stayed on as a technician for several years before joining a graduate program, and encountered students mostly unfazed by the physically and emotionally exhausting ordeal that I believed it to be.
 Meanwhile I struggled through every new protocol/manipulation I needed to learn. Eventually, my feelings of fear were replaced with feelings of accomplishment, that I had conquered them.
-Soon I could not only do the work but do it <ev> well <ev/>. But mastery of any technique never felt as good as the feeling of doing it right the first time, no longer afraid.
+Soon I could not only do the work but do it <ev>well<ev/>. But mastery of any technique never felt as good as the feeling of doing it right the first time, no longer afraid.
 
 This is not a means to push you the reader into pursuing animal research. There are many fields of medical research that contribute substantively to their respective fields and do not involve animal work. The intention of this article is to advise those
 who particularly ***want to participate in a lab's animal research, but for reasons such as fear and self doubt are apprehensive about joining a lab that conducts animal research. I want to share a few thoughts I had and advice I received over the years that helped me, and I hope may help you.
 
-1. Animal rights are protected, and humane treatment is enforced: This was a big one for me, hence why I listed it at the top. 
+1. Animal rights are protected, and humane treatment is enforced: This was a big one for me, hence why I listed it at the top. Institutional Animal Care and Use Committees (IACUC) regulate animal research to ensure the ethical and humane treatment of animals for research. All protocols conducted in a lab that involves animals must be reviewed by this committee and approved prior to any procedures being done. Part of their work involves refining protocols to improve animal welfare and may reduce the number of animals needed to complete a study. In short, there are standards for animal treatment and care in research that are strictly followed, and clear boundaries that won't be crossed.
 
 2. The science you conduct, and the knowledge you will receive is worth facing your fear: This may seem obvious, but your PI's research was funded for a reason! Grants are awarded by percentile rank, meaning only the highest scoring grants are awarded. 
-So you should be convinced that the questions you will answer <ev> matter. <ev/> Furthermore, the passing of knowledge and technical skills onto you is critical to accomplishing the long term goals of funding agencies. It is crucial that you really believe that and
+So you should be convinced that the questions you will answer <ev>matter<ev/>. Furthermore, the passing of knowledge and technical skills onto you is critical to accomplishing the long term goals of funding agencies. It is crucial that you really believe that and
 have a real passion for the science.  If you are still reading this, you can be sure this is the case!
 
 3. It's not as bad as it used to be: Before the refinement of protocols, molecular technology, computational biology, and AI medical science required much more labor from scientists, and animal research was essential to answer even the most basic questions.
 This partially ties into point number one, as progress has effectively reduced or reserved the use of animals for experiments that have at least partially tested theories.
 
-4. The job market demands it: Researchers that do animal work are continuously in high demand at universities and in industry. That is not likely to change since institutional review boards require therapeutics be rigorously tested in animals prior to clinical trials. This leads me to my last point.
+4. It gets easier over time: And becoming desensitized will not make you a bad person. Scientists have a deep appreciation for the animals in their research and it is not uncommon to be fond of them. Having the fear released will make you more attentive and result in better animal treatment and better science.
 
-5. This one is strange to say out loud but I have found it to be the truth: The work will go on with or without you. For the fearful that might seem just alright with you, at first. But there is another fear
+5. The job market demands it: Researchers that do animal work are continuously in high demand at universities and in industry. That is not likely to change since institutional review boards require therapeutics to be rigorously tested in animals prior to clinical trials. This leads me to my last point.
+
+6. This one is strange to say out loud but I have found it to be the truth: The work will go on with or without you. For the fearful that might seem just alright with you, at first. But there is another fear
 that many more of us face in science, the fear of missing out (FOMO). As with any degree program there are experiences that are core to the student experience. You may experience it first during rotations, but will
 certainly face it as a professional, competition. You've worked incredibly hard to get this far, why let fear be the reason you don't realize your goal?
 
-6. Find a mentor who is supportive, patient, and kind: Facing your fears is going to frequently put you in vulnerable and embarrassing situations. 
+7. Find a mentor who is supportive, patient, and kind: Facing your fears is going to frequently put you in vulnerable and embarrassing situations. 
 
 If you're someone reading who is passionate about medical research whether you've not yet begun your journey, or are in the thick of protocol training.
