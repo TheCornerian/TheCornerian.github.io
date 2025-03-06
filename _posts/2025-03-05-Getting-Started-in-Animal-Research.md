@@ -9,7 +9,7 @@ tags: []
 author: Blaine Weiss
 ---
 
-Career path is not determined by aptitude tests but rather by where we put our time in. You may have taken one as I did in high school, designed to inform and guide you to a career utilizing your strengths... and ideally, your interests.
+  Career path is not determined by aptitude tests but rather by where we put our time in. You may have taken one as I did in high school, designed to inform and guide you to a career utilizing your strengths... and ideally, your interests.
 When mine read engineer, I'm embarrassed to say I was confused. I had no idea what an engineer does. I had spent the majority of my life convinced that I wanted to be a physician. I wanted to help people, as
 we all do pursuing the profession, and I believed my proclivity to math and science would actualize into an admission to medical school. There were only a couple issues, at first, that stood in my way.
 They're called Tomophobia and germophobia. The sight of gore could immediately invoke sweating, anxiety, and fear. And I could hardly stand to be around anyone that was sick. You might expect that to be a definitive deal breaker for medical school, but
@@ -18,12 +18,12 @@ I should have questioned more then why I decided to show up <ev>there<ev/> every
 
 The science of course!
 
-I loved studying the brain and I loved biology. So much that I stayed on as a technician for several years post graduation, and before joining the graduate program. I encountered many students mostly unfazed by the physically and emotionally exhausting ordeal that I believed it to be.
+  I loved studying the brain and I loved biology. So much that I stayed on as a technician for several years post graduation, and before joining the graduate program. I encountered many students mostly unfazed by the physically and emotionally exhausting ordeal that I believed it to be.
 Meanwhile I struggled through every single new protocol and manipulation I needed to learn. But, over time my feelings of fear were replaced with feelings of accomplishment, that I had conquered my fear and did the job. In fact, I could not only do the job but do it <ev>well<ev/>. Euthanasias, surgeries, all forms of injections, dissections, and more.
 
-And finally, after facing fear over and over again, I found myself ready to rid myself of my fear once and for all, by one last protocol. It was the one I couldn't even watch when I started. And here I was, 9 YEARS LATER at the table!... And courage finally prevailed.
+  And finally, after facing fear over and over again, I found myself ready to rid myself of my fear once and for all, by one last protocol. It was the one I couldn't even watch when I started. And here I was, 9 YEARS LATER at the table!... And courage finally prevailed.
 
-Now this is not a means to push you, the reader, into pursuing a career in animal research. There are many areas of medical research that contribute substantively to their respective fields and do not involve any animal work. But if you are someone who wants to participate in a lab's animal research, but for reasons such as fear and self doubt are apprehensive about joining a lab that conducts animal research, I wanted to share my story, and below a few thoughts I had over the years including advice I received that helped me. I hope they may help you too.
+  Now this is not a means to push you, the reader, into pursuing a career in animal research. There are many areas of medical research that contribute substantively to their respective fields and do not involve any animal work. But if you are someone who wants to participate in a lab's animal research, but for reasons such as fear and self doubt are apprehensive about joining a lab that conducts animal research, I wanted to share my story, and below a few thoughts I had over the years including advice I received that helped me. I hope they may help you too.
 
 1. For research, animal rights are protected, and humane treatment is enforced: This was a big one for me, hence why I listed it at the top. Institutional Animal Care and Use Committees (IACUC) exist to regulate animal research to ensure the ethical and humane treatment of animals for research. All protocols conducted in a lab that involves animals must be reviewed by this committee and approved prior to any procedures being done. Part of their work involves refining protocols to improve animal welfare, and may reduce the number of animals needed to complete a study. In short, there are standards for animal treatment and care in research that are strictly followed, and clear boundaries that won't be crossed.
 
@@ -45,6 +45,4 @@ certainly face it as a professional, competition. During rotations you will enco
 
 8. Find a mentor and lab group that is supportive, patient, and kind: This is important. Facing your fears and lack of experience is going to frequently put you in vulnerable and potentially embarrassing situations. Being in a nurturing learning environment is going to be key for you to be willing to put yourself in the hot seat over and over again. Communicate with your PI and senior lab members, make goals, and allow yourself to be held accountable to them. You will face failures during your graduate school journey. That is why resilience is often stated as the most important quality in successful graduate students. 
 
-If you've read up to this far, thank you! I hope you will take away something that helps you on your journey, or just found it an interesting enough read! We all come into graduate school from different places, and it's okay to be unsure of your boundaries as you begin to navigate a career in medical research. Take it slow, take care of yourself, and don't be afraid of facing failure, or your fears. 
-
-Blaine
+If you've read up to this far, thank you! I hope you will take away something that helps you on your journey, or just found it an interesting enough read! We all come into graduate school from different places, and it's okay to be unsure of your boundaries as you begin to navigate a career in medical research. Take it slow, take care of yourself, and don't be afraid of facing failure, or your fears.
