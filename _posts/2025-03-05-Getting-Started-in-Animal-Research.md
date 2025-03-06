@@ -14,12 +14,12 @@ When mine read engineer, I'm embarrassed to say I was confused. I had no idea wh
 we all do pursuing the profession, and I believed my proclivity to math and science would actualize into an admission to medical school. There were only a couple issues, at first, that stood in my way.
 They're called Tomophobia and germophobia. The sight of gore could immediately invoke sweating, anxiety, and fear. And I could hardly stand to be around anyone that was sick. You might expect that to be a definitive deal breaker for medical school, but
 my applications never got that far! (ha) In the meantime I was volunteering for a Alzheimer's disease research lab conducting research on rodents, where my fears were played out as living nightmares, and my own personal circle of hell. Surely I could never become good at this, I could hardly stand in the room some days.
-I should have questioned more then why I decided to show up <ev>there<ev/> everyday, and not anywhere else. I had a job to pay my bills through undergrad, and I gave up precious work hours to be in the lab instead. So why did I do it?
+I should have questioned more then why I decided to show up _there_ everyday, and not anywhere else. I had a job to pay my bills through undergrad, and I gave up precious work hours to be in the lab instead. So why did I do it?
 
-The science of course!
+**The science of course!**
 
   I loved studying the brain and I loved biology. So much that I stayed on as a technician for several years post graduation, and before joining the graduate program. I encountered many students mostly unfazed by the physically and emotionally exhausting ordeal that I believed it to be.
-Meanwhile I struggled through every single new protocol and manipulation I needed to learn. But, over time my feelings of fear were replaced with feelings of accomplishment, that I had conquered my fear and did the job. In fact, I could not only do the job but do it <ev>well<ev/>. Euthanasias, surgeries, all forms of injections, dissections, and more.
+Meanwhile I struggled through every single new protocol and manipulation I needed to learn. But, over time my feelings of fear were replaced with feelings of accomplishment, that I had conquered my fear and did the job. In fact, I could not only do the job but do it _well_. Euthanasias, surgeries, all forms of injections, dissections, and more.
 
   And finally, after facing fear over and over again, I found myself ready to rid myself of my fear once and for all, by one last protocol. It was the one I couldn't even watch when I started. And here I was, 9 YEARS LATER at the table!... And courage finally prevailed.
 
@@ -28,7 +28,7 @@ Meanwhile I struggled through every single new protocol and manipulation I neede
 1. For research, animal rights are protected, and humane treatment is enforced: This was a big one for me, hence why I listed it at the top. Institutional Animal Care and Use Committees (IACUC) exist to regulate animal research to ensure the ethical and humane treatment of animals for research. All protocols conducted in a lab that involves animals must be reviewed by this committee and approved prior to any procedures being done. Part of their work involves refining protocols to improve animal welfare, and may reduce the number of animals needed to complete a study. In short, there are standards for animal treatment and care in research that are strictly followed, and clear boundaries that won't be crossed.
 
 2. The science you conduct, and the knowledge you will receive is worth facing your fear: This may seem obvious, but your PI's research was funded for a reason! Grants are awarded by percentile rank, meaning only the highest scoring grants are awarded. 
-So you should be convinced that the questions you will answer <ev>matter<ev/>. Furthermore, the passing of knowledge and technical skills onto you is critical to accomplishing the long term goals of funding agencies. It is crucial that you really believe that and
+So you should be convinced that the questions you will answer _matter_. Furthermore, the passing of knowledge and technical skills onto you is critical to accomplishing the long term goals of funding agencies. It is crucial that you really believe that and
 have a real passion for the science.  If you are still reading this, you can be sure this is the case!
 
 3. It's not as bad as it used to be: Before the refinement of protocols, molecular technology, computational biology, and AI medical science required much more labor from scientists, and animal research was essential to answer even the most basic questions.
