@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi, I’m Toby — DevOps Engineer, Exam Author, and Technical Consultant 🚀
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I deliver reliable platforms, automated delivery, and help institutions run fair, defensible exams.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## What I do 🧰
+- **DevOps & Platforms:** Windows and Linux at depth; containers, Docker, Kubernetes, OpenShift; CI/CD architecture and hardening.
+- **Automation:** Terraform, Ansible, Bash, PowerShell, Python to remove clutter and make delivery repeatable.
+- **Identity & Security:** IAM with OIDC/OAuth2 and KeyCloak, from auth flows to token introspection and policy controls 🔐.
+- **Architecture & Documentation:** C4, IEEE 42010, ArchiMate, and UML for comprehensible system views teams can actually use.
+- **Professional Education & Public Sector:** Consulting for federal offices, schools, vocational training centers and similar institutions; authoring, conducting, and correcting exams.
 
-What else do you need?
+## How I work ⚙️
+- **Requirements first:** Problem, constraints, and success criteria before tools.
+- **Solution-agnostic and trade-off focused:** Make decisions explicit.
+- **Deterministic:** Clear acceptance criteria beat vague aspirations.
+- **Challenger mindset:** I pressure-test assumptions so choices stand in production and audits.
 
-### My story
+## Toolkit and focus areas 🧪
+- **Infra & delivery:** Terraform, Git workflows, artifact management, release strategies.
+- **Security-minded ops:** Secrets handling, least privilege, supply-chain hygiene.
+- **Observability:** Metrics, logs, and traces that drive action instead of dashboard theater.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Work with me 🤝
+Need a sparring partner on platform architecture, IAM, CI/CD, or exam governance?  
+Let's connect!
