@@ -136,17 +136,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col:        "#F5F7FB"   # very light bluish background
-text-col:        "#1F2933"   # dark slate text (better contrast)
-link-col:        "#2563EB"   # strong engineering blue
-hover-col:       "#1D4ED8"   # slightly darker blue on hover
-navbar-col:      "#FFFFFF"   # white navbar
-navbar-text-col: "#111827"   # near-black navbar text
-navbar-border-col: "#CBD5F5" # subtle blue-ish bottom border
-footer-col:      "#F3F4F6"   # light gray footer
-footer-text-col: "#6B7280"   # medium gray footer text
-footer-link-col: "#111827"   # dark links in footer
-footer-hover-col: "#1D4ED8"  # same blue hover
+page-col:        "#050716"   # deep navy/black background
+text-col:        "#E5E7EB"   # light gray text
+link-col:        "#38BDF8"   # electric cyan links
+hover-col:       "#A855F7"   # purple hover (music/synth vibe)
+navbar-col:      "#020617"   # slightly darker navbar
+navbar-text-col: "#E5E7EB"   # light navbar text
+navbar-border-col: "#1E293B" # subtle dark border
+footer-col:      "#020617"   # match navbar for symmetry
+footer-text-col: "#9CA3AF"   # muted gray footer text
+footer-link-col: "#E5E7EB"   # light footer links
+footer-hover-col: "#A855F7"  # purple hover in footer
+
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
