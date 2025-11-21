@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome to my world!
+subtitle: Welcome to Ny World!
 ---
 
 My name is Inigo Montoya. I have the following qualities:
