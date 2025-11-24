@@ -35,7 +35,7 @@ I’m not just building things, I’m building myself as I go.
 At the end of the day, I want my life and my work to feel approachable. Whether you’re an engineer, a musician, a gamer, a student, or just someone browsing by, I want this space to feel like you can pull up a chair, jump into whatever I’m working on, and maybe get inspired to start something of your own.
 
 ### By the time you reach the end of this page, I hope you think,
-“Alright… this guy’s actually pretty cool — and he’s doing some interesting stuff.”
+“Alright… this guy’s actually pretty cool, and he’s doing some interesting stuff.”
 Because that’s really what I’m aiming for: to share the things I build, the things I learn, and the things I love in a way that makes you want to stick around and see what comes next.
 
 I’m always working on new projects. Some serious, some chaotic, some accidentally brilliant. If you’re into engineering, music, creativity, or just people who think a little differently, I think you’ll enjoy following along.
