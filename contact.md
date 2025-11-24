@@ -13,17 +13,17 @@ If you’d like to talk about work, projects, collaborations, or just nerd out a
 
 ---
 
-#### 📧 Email  
+### 📧 Email  
 <a href="mailto:youremail@example.com" style="font-weight:bold;">
 youremail@example.com
 </a>
 
-#### 💼 LinkedIn  
+### 💼 LinkedIn  
 <a href="https://www.linkedin.com/in/your-linkedin-here" target="_blank">
 linkedin.com/in/your-linkedin-here
 </a>
 
-#### 🧑‍💻 GitHub  
+### 🧑‍💻 GitHub  
 <a href="https://github.com/thecornerian" target="_blank">
 github.com/thecornerian
 </a>
