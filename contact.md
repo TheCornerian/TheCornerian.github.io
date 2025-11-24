@@ -14,15 +14,18 @@ If you’d like to talk about work, projects, collaborations, or just nerd out a
 ---
 
 ### Email  
+
 **kevin.largent1@gmail.com**  
 <a href="mailto:kevin.largent1@gmail.com">Send Email</a>
 
 ### LinkedIn  
+
 <a href="https://www.linkedin.com/in/your-linkedin-here" target="_blank">
 linkedin.com/in/your-linkedin-here
 </a>
 
 ### GitHub  
+
 <a href="https://github.com/thecornerian" target="_blank">
 github.com/thecornerian
 </a>
