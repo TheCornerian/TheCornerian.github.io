@@ -23,6 +23,10 @@ navbar-links:
   My Life:
     - About Me: "aboutme"
     - Fish: "fish"
+  Build Log:
+  Projects:
+  Resume:
+  Contact:
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
