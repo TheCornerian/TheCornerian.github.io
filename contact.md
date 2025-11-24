@@ -13,17 +13,16 @@ If you’d like to talk about work, projects, collaborations, or just nerd out a
 
 ---
 
-### 📧 Email  
-<a href="mailto:youremail@example.com" style="font-weight:bold;">
-youremail@example.com
-</a>
+### Email  
+**kevin.largent1@gmail.com**  
+<a href="mailto:kevin.largent1@gmail.com">Send Email</a>
 
-### 💼 LinkedIn  
+### LinkedIn  
 <a href="https://www.linkedin.com/in/your-linkedin-here" target="_blank">
 linkedin.com/in/your-linkedin-here
 </a>
 
-### 🧑‍💻 GitHub  
+### GitHub  
 <a href="https://github.com/thecornerian" target="_blank">
 github.com/thecornerian
 </a>
@@ -37,4 +36,5 @@ github.com/thecornerian
 - Questions about any of the projects on this site  
 
 I read everything I get, even if I’m a little slow to reply sometimes.
+
 </div>
