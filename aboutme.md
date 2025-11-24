@@ -4,7 +4,9 @@ title: About me
 subtitle: Who am I?
 ---
 
-![Kevin Largent](/assets/img/kevin.png)
+<p align="center">
+  <img src="/assets/img/kevin.png" alt="Kevin Largent" style="max-width: 250px; border-radius:12px;">
+</p>
 
 Hello world! My name is Kevin Largent. You might be thinking, “Okay… cool… but what does that mean for me?”
 Fair question.
