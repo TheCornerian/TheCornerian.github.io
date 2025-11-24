@@ -47,6 +47,6 @@ I’m always working on new projects. Some serious, some chaotic, some accidenta
 I don’t want to impress you with perfection.
 I want to impress you with realness, curiosity, and the energy I bring into everything I do.
 
-So yeah — that’s me. A mix of engineering, curiosity, music, randomness, and a whole lot of genuine good energy. I’m always learning, always building, always trying to make something a little better than it was yesterday. And if all of that makes you want to follow along or see what I make next, you’re in the right place.
+So yeah... that’s me. A mix of engineering, curiosity, music, randomness, and a whole lot of genuine good energy. I’m always learning, always building, always trying to make something a little better than it was yesterday. And if all of that makes you want to follow along or see what I make next, you’re in the right place.
 
 ### Stick around. Things might get a little wacky!
