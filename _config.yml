@@ -26,7 +26,7 @@ navbar-links:
   Build Log:
   Projects:
   Resume:
-  Contact:
+  Contact: "contact"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
