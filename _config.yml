@@ -21,8 +21,8 @@ author: Kevin Largent
 
 navbar-links:
   My Life:
-    About Me: "aboutme"
-    Fish: "fish"
+    - About Me: "aboutme"
+    - Fish: "fish"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
