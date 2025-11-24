@@ -5,7 +5,7 @@ subtitle: Who am I?
 ---
 
 <p align="center">
-  <img src="/assets/img/kevin.png" alt="Kevin Largent" style="max-width: 250px; border-radius:12px;">
+  <img src="/assets/img/kevin.png" alt="Kevin Largent" style="max-width: 250px; border-radius:12px; border: 3px solid #ccc">
 </p>
 
 Hello world! My name is Kevin Largent. You might be thinking, “Okay… cool… but what does that mean for me?”
