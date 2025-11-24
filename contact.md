@@ -11,7 +11,6 @@ permalink: /contact/
 
 If you’d like to talk about work, projects, collaborations, or just nerd out about power electronics, embedded systems, or music, feel free to reach out.
 
----
 
 ### Email  
 
@@ -30,7 +29,6 @@ linkedin.com/in/your-linkedin-here
 github.com/thecornerian
 </a>
 
----
 
 ### What to contact me about
 
