@@ -5,9 +5,39 @@ subtitle: Who am I?
 permalink: /aboutme/
 ---
 
-<p align="center">
-  <img src="/assets/img/kevin.jpg" alt="Kevin Largent" style="max-width: 500px; border-radius:12px; border: 3px solid #ccc">
-</p>
+<div style="position: relative; width: fit-content; margin: 0 auto;">
+  <img src="/assets/img/kevin.jpg" alt="Kevin Largent"
+       style="max-width: 500px; border-radius:12px; border: 3px solid #ccc">
+
+  <!-- Kevin label -->
+  <div style="
+      position:absolute;
+      top: 25%;   /* adjust until arrow points at your face */
+      left: -60px;
+      display:flex;
+      align-items:center;
+      color:#ff3366;
+      font-weight:bold;
+      font-size:1.1rem;">
+      <span style="transform: rotate(0deg); margin-right:6px;">➤</span>
+      Kevin
+  </div>
+
+  <!-- Fiancée label -->
+  <div style="
+      position:absolute;
+      top: 40%;   /* adjust based on her face position */
+      right: -80px;
+      display:flex;
+      align-items:center;
+      color:#33aaff;
+      font-weight:bold;
+      font-size:1.1rem;">
+      <span style="transform: rotate(180deg); margin-left:6px;">➤</span>
+      Fiancée
+  </div>
+</div>
+
 
 ### Introduction
 Hello world! My name is Kevin Largent. You might be thinking, “Okay… cool… but what does that mean for me?”
