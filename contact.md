@@ -5,26 +5,21 @@ subtitle: Let's get in touch
 permalink: /contact/
 ---
 
-<div style="max-width: 600px; margin: 0 auto;">
+<div markdown="1" style="max-width: 600px; margin: 0 auto;">
 
 ### Reach out
-
 If you’d like to talk about work, projects, collaborations, or just nerd out about power electronics, embedded systems, or music, feel free to reach out.
 
-
 ### Email  
-
 **kevin.largent1@gmail.com**  
 <a href="mailto:kevin.largent1@gmail.com">Send Email</a>
 
 ### LinkedIn  
-
 <a href="https://www.linkedin.com/in/your-linkedin-here" target="_blank">
 linkedin.com/in/your-linkedin-here
 </a>
 
 ### GitHub  
-
 <a href="https://github.com/thecornerian" target="_blank">
 github.com/thecornerian
 </a>
