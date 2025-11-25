@@ -5,7 +5,7 @@ subtitle: My experience
 permalink: /resume/
 ---
 
-### View My Résumé
+### View My Resume
 
 You can view it directly below or download it:
 
